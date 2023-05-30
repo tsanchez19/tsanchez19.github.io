@@ -1,1 +1,1 @@
-[a relative link](Proposal.md)
+[Project Proposal](Proposal.md)
