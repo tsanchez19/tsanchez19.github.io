@@ -1,8 +1,8 @@
 What did you do last week?
 * Worked on Udacity Course
 * Watched Youtube Videos to get ideas:
-** https://www.youtube.com/watch?v=yuo50-TiKgo
-** https://www.youtube.com/watch?v=HJDCXdhQaP0
+  * https://www.youtube.com/watch?v=yuo50-TiKgo
+  * https://www.youtube.com/watch?v=HJDCXdhQaP0
 * Continued to play around is Swift and get more familiar. 
 
 What do you plan to do this week?
