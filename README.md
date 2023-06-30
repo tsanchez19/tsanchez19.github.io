@@ -7,3 +7,5 @@
 [Week 4 Update](Week4Update.md)
 
 [Week 5 Update](Week5Update.md)
+
+[Week 6 Update](Week6Update.md)
