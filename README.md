@@ -9,3 +9,5 @@
 [Week 5 Update](Week5Update.md)
 
 [Week 6 Update](Week6Update.md)
+
+[Week 7 Update](Week7Update.md)
