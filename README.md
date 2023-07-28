@@ -15,3 +15,5 @@
 [Week 8 Update and Mid-Semester Review](MidSemesterandWeek8Update.md)
 
 [Week 9 Update](Week9Update.md)
+
+[Week 10 Update](Week10Update.md)
