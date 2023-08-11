@@ -19,3 +19,5 @@
 [Week 10 Update](Week10Update.md)
 
 [Week 11 Update](Week11Update.md)
+
+[Week 12 Update](Week12Update.md)
