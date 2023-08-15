@@ -21,3 +21,6 @@
 [Week 11 Update](Week11Update.md)
 
 [Week 12 Update](Week12Update.md)
+
+[Final Project Report](FinalReport.md)
+
